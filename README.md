@@ -1,1 +1,1 @@
-# LAB
+# The Logistic Regression model predicts breast cancer malignancy using the Wisconsin dataset. It preprocesses data, applies feature scaling, trains the model, and evaluates performance with accuracy, classification report, and confusion matrix.
