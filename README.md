@@ -1,0 +1,1 @@
+The Random Forest model classifies breast cancer tumors using multiple decision trees. It trains on the Wisconsin dataset, performs feature selection, makes predictions, and evaluates results using accuracy, confusion matrix, and classification report.
